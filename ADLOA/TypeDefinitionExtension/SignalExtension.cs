@@ -13,7 +13,8 @@ namespace TypeDefinitionExtension
     // Custom context menu command extension
     // See http://msdn.microsoft.com/en-us/library/ee329481(v=vs.110).aspx
     [Export(typeof(ICommandExtension))]
-    [ClassDesignerExtension] // TODO: Add other diagram types if needed
+    [ClassDesignerExtension]
+    [ComponentDesignerExtension]
     class SignalExtension : ICommandExtension
     {
         [Import]

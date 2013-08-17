@@ -12,7 +12,8 @@ namespace TypeDefinitionExtension
     // Custom context menu command extension
     // See http://msdn.microsoft.com/en-us/library/ee329481(VS.110).aspx
     [Export(typeof(ICommandExtension))]
-    [ClassDesignerExtension] // TODO: Add other diagram types if needed
+    [ClassDesignerExtension]
+    [ComponentDesignerExtension]
     class TypeExtension : ICommandExtension
     {
         [Import]
@@ -29,9 +30,9 @@ namespace TypeDefinitionExtension
             
             // The following example creates a new class in the model store
             // and displays it on the current diagram.
-            IClassDiagram diagram = context.CurrentDiagram as IClassDiagram;
-            IModelStore store = diagram.ModelStore;
-            IPackage rootPackage = store.Root;
+            //IClassDiagram diagram = context.CurrentDiagram as IClassDiagram;
+            //IModelStore store = diagram.ModelStore;
+            //IPackage rootPackage = store.Root;
             
             //IClass newClass = rootPackage.CreateClass();
             //newClass.Name = "TypeDefinitionExtension";
