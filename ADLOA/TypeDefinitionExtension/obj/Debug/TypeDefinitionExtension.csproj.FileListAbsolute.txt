@@ -1,0 +1,9 @@
+c:\Users\Jade\documents\visual studio 2012\Projects\ADLOA\TypeDefinitionExtension\obj\Debug\TypeDefinitionExtension.dll
+c:\Users\Jade\documents\visual studio 2012\Projects\ADLOA\TypeDefinitionExtension\obj\Debug\TypeDefinitionExtension.pdb
+c:\Users\Jade\documents\visual studio 2012\Projects\ADLOA\TypeDefinitionExtension\bin\Debug\TypeDefinitionExtension.vsix
+c:\Users\Jade\documents\visual studio 2012\Projects\ADLOA\TypeDefinitionExtension\bin\Debug\extension.vsixmanifest
+c:\Users\Jade\documents\visual studio 2012\Projects\ADLOA\TypeDefinitionExtension\obj\Debug\TypeDefinitionExtension.csprojResolveAssemblyReference.cache
+c:\Users\Jade\documents\visual studio 2012\Projects\ADLOA\TypeDefinitionExtension\obj\Debug\extension.vsixmanifest
+c:\Users\Jade\documents\visual studio 2012\Projects\ADLOA\TypeDefinitionExtension\obj\Debug\TypeDefinitionExtension.frmTypeDefUI.resources
+c:\Users\Jade\documents\visual studio 2012\Projects\ADLOA\TypeDefinitionExtension\obj\Debug\TypeDefinitionExtension.csproj.GenerateResource.Cache
+c:\Users\Jade\documents\visual studio 2012\Projects\ADLOA\TypeDefinitionExtension\obj\Debug\TypeDefinitionExtension.UI.frmSignalDefinition.resources

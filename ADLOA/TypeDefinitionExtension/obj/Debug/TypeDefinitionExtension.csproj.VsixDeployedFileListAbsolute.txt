@@ -1,0 +1,2 @@
+C:\Users\Jade\AppData\Local\Microsoft\VisualStudio\11.0Exp\Extensions\JA Venter\TypeDefinitionExtension\1.0\\TypeDefinitionExtension.dll
+C:\Users\Jade\AppData\Local\Microsoft\VisualStudio\11.0Exp\Extensions\JA Venter\TypeDefinitionExtension\1.0\\extension.vsixmanifest
