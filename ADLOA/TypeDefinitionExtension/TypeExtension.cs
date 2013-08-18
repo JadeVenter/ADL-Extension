@@ -7,7 +7,7 @@ using Microsoft.VisualStudio.ArchitectureTools.Extensibility.Uml;
 using Microsoft.VisualStudio.Modeling.ExtensionEnablement;
 using Microsoft.VisualStudio.Uml.Classes;
 
-namespace TypeDefinitionExtension
+namespace DefinitionExtension
 {
     // Custom context menu command extension
     // See http://msdn.microsoft.com/en-us/library/ee329481(VS.110).aspx

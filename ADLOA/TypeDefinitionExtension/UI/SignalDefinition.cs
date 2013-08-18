@@ -8,7 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace TypeDefinitionExtension.UI
+namespace DefinitionExtension.UI
 {
     public partial class frmSignalDefinition : Form
     {

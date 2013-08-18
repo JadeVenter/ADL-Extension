@@ -11,7 +11,5 @@
     <Dependency Id="Microsoft.Framework.NDP" DisplayName="Microsoft .NET Framework" Version="4.5" />
     <Dependency Id="Microsoft.VisualStudio.MPF.11.0" DisplayName="Visual Studio MPF 11.0" Version="11.0" />
   </Dependencies>
-  <Assets>
-    <Asset Type="Microsoft.VisualStudio.MefComponent" Path="TypeDefinitionExtension.dll" />
-  </Assets>
+  <Assets></Assets>
 </PackageManifest>

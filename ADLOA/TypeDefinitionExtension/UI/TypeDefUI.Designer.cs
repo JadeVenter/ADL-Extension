@@ -1,4 +1,4 @@
-﻿namespace TypeDefinitionExtension
+﻿namespace DefinitionExtension
 {
     partial class frmTypeDefUI
     {

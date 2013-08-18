@@ -1,4 +1,4 @@
-﻿namespace TypeDefinitionExtension.UI
+﻿namespace DefinitionExtension.UI
 {
     partial class frmSignalDefinition
     {

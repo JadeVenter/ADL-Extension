@@ -1,7 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TypeDefinitionExtension", "TypeDefinitionExtension\TypeDefinitionExtension.csproj", "{8704E5F8-C6DC-4F7F-B1EC-6C940FC53742}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DefinitionExtension", "TypeDefinitionExtension\DefinitionExtension.csproj", "{8704E5F8-C6DC-4F7F-B1EC-6C940FC53742}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DefinitionExtensionTests", "Unit Tests\DefinitionExtensionTests.csproj", "{F5410183-8989-4AF1-8D6F-281FBBABA272}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -13,6 +15,10 @@ Global
 		{8704E5F8-C6DC-4F7F-B1EC-6C940FC53742}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8704E5F8-C6DC-4F7F-B1EC-6C940FC53742}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8704E5F8-C6DC-4F7F-B1EC-6C940FC53742}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F5410183-8989-4AF1-8D6F-281FBBABA272}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5410183-8989-4AF1-8D6F-281FBBABA272}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5410183-8989-4AF1-8D6F-281FBBABA272}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5410183-8989-4AF1-8D6F-281FBBABA272}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
